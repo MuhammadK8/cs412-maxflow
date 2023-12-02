@@ -86,7 +86,7 @@ This algorithm has significant applications in areas like optimizing network dat
 ### Advanced Programming Techniques
 - **Data Structures**: Effective use of advanced data structures to manage complex network flows.
 - **Python Proficiency**: Demonstrated advanced proficiency in Python, particularly in handling intricate algorithmic challenges.
-- 
+
 ## Running the Program
 1. Clone this repository to your local machine.
 2. Run the `Max Flow.py` script in a Python 3 environment.
